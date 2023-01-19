@@ -16,5 +16,5 @@ for i in range(1, 5):
         if idade < 20:
             mulher += 1
     idades += idade
-print(f'A MÉDIA DE IDADE DO GRUPO é {idades/4}, O HOMEM MAIS VELHO SE CHAMA {homem} E O NUMERO DE MULHERES MENORES DE 20 ANOS é {mulher} ')
+print(f'A MÉDIA DE IDADE DO GRUPO é {idades/4} ANOS, O HOMEM MAIS VELHO SE CHAMA {homem} COM {velho} ANOS , SÂO {mulher} DE MULHERES MENORES DE 20 ANOS é  ')
 
